@@ -1,0 +1,6 @@
+c:\users\hris\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
+c:\users\hris\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe
+c:\users\hris\documents\visual studio 2015\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
+c:\users\hris\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.Data.csprojResolveAssemblyReference.cache
+c:\users\hris\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.exe
+c:\users\hris\documents\visual studio 2015\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
